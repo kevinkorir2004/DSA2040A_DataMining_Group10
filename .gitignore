@@ -1,0 +1,5 @@
+.ipynb_checkpoints/ 
+__pycache__/ 
+*.pyc 
+data/raw/* 
+!data/raw/synthetic_health_data.csv 
