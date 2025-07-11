@@ -8,7 +8,7 @@
 ### 👥 Group Members & Roles
 - **Alfred (...)** – Visualization
 - **Satcha (...)** – ETL
-- **Kevin (...)** – ETL, Documentation
+- **Kevin (656)** – ETL, Documentation
 - **Bricole (...)** – EDA and Analysis
 - **Geoffrey (...)** – Dashboard
 
