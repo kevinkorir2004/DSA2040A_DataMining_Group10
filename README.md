@@ -9,7 +9,7 @@
 - **Alfred (...)** – Visualization
 - **Margaret (497)** – ETL
 - **Kevin (656)** – ETL, Documentation
-- **Bricole (...)** – EDA and Analysis
+- **Bricole (...)** – Data Mining
 - **Geoffrey (...)** – Dashboard
 
 ---
@@ -72,7 +72,83 @@ Chronic illnesses such as hypertension, diabetes, and cardiovascular disease pos
 - Group comparisons between obesity status, chronic illness, age brackets, and behavioral flags
 - Toolset: pandas, matplotlib, seaborn, scikit-learn
 - Added scaling, binning, and one-hot encoding during ETL to prepare features for mining
+
+### Week 4 – Data Mining 
+
+key data mining techniques on a synthetic health dataset:
+
+* **Classification:** Logistic Regression, Decision Tree
+* **Clustering:** K-Means, DBSCAN
+
+
+## 1️⃣ Classification
+
+### Techniques Used:
+
+* **Logistic Regression**
+* **Decision Tree Classifier**
+
+### Goal:
+
+Predict the presence of chronic illness based on patient data.
+
+### Evaluation Metrics:
+
+* **Accuracy**
+* **Classification Report (Precision, Recall, F1-score)**
+
+### Results:
+
+* Logistic Regression and Decision Tree models both showed solid performance.
+* Decision Tree offers interpretable decision paths.
+
+### Interpretation:
+
+Risk factors such as blood pressure, cholesterol, and smoking status strongly influence chronic illness prediction. The models enable proactive identification of at-risk individuals.
+
+
+## 2️⃣ Clustering
+
+### Techniques Used:
+
+* **K-Means Clustering**
+* **DBSCAN (Density-Based Spatial Clustering)**
+
+### Goals:
+
+* Group patients into meaningful health segments without using target labels.
+* Uncover hidden patterns in the dataset.
+
+### Evaluation Metrics:
+
+* **K-Means:** Silhouette Score
+* **DBSCAN:** Number of clusters & noise points
+
+### Results:
+
+* **K-Means:** Identified 3 distinct clusters with moderate silhouette score.
+* **DBSCAN:** Revealed clusters with outliers handled as noise, based on density rather than centroid distance.
+
+### Interpretation:
+
+* K-Means grouped patients based on similar health profiles.
+* DBSCAN was effective in detecting smaller dense groups and isolating outlier cases (potential anomalies or unique health patterns).
+
+
+## 🛠️ Tools Used
+
+* Python 3
+* Jupyter Notebook (VS Code)
+* Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
+
+
+
+
+##
+
 ---
+
+
 
 ### 📂 Repository Structure (Planned)
 
