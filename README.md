@@ -1,6 +1,6 @@
 # DSA2040A Data Mining Group Project – Project Proposal
 
-## Group 10 – Health Risk Prediction
+## Group 9 – Health Risk Prediction
 
 ### 📌 Project Title
 **Health Risk Prediction Based on Lifestyle and Demographic Attributes**
