@@ -10,7 +10,7 @@
 - **Margaret (497)** – ETL, Exploratory & Statistical Analysis 
 - **Kevin (656)** – ETL, Documentation(notebook 1,Readme,documentation report)
 - **Bricole (834)** – Data Mining
-- **Geoffrey (...)** – Dashboard
+- **Geoffrey (566)** – Dashboard
 
 ---
 
@@ -41,7 +41,7 @@ Chronic illnesses such as hypertension, diabetes, and cardiovascular disease pos
 
 - **Programming**: Python (Pandas, NumPy, Scikit-learn)
 - **Visualization**: Seaborn, Matplotlib, Plotly
-- **Dashboarding**: Jupyter Dash or Plotly Dash
+- **Dashboarding**: Microsoft PowerBI, Tableau, Jupyter Dash or Plotly Dash
 - **Version Control**: GitHub
 
 ---
