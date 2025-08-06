@@ -8,7 +8,7 @@
 ### 👥 Group Members & Roles
 - **Alfred (...)** – Visualization
 - **Margaret (497)** – ETL, Exploratory & Statistical Analysis 
-- **Kevin (656)** – ETL, Documentation
+- **Kevin (656)** – ETL, Documentation(notebook 1,Readme,documentation report)
 - **Bricole (834)** – Data Mining
 - **Geoffrey (...)** – Dashboard
 
