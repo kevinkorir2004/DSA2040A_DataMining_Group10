@@ -6,7 +6,7 @@
 **Health Risk Prediction Based on Lifestyle and Demographic Attributes**
 
 ### 👥 Group Members & Roles
-- **Alfred (...)** – Visualization
+- **Alfred (579)** – Visualization
 - **Margaret (497)** – ETL, Exploratory & Statistical Analysis 
 - **Kevin (656)** – ETL, Documentation(notebook 1,Readme,documentation report)
 - **Bricole (834)** – Data Mining
